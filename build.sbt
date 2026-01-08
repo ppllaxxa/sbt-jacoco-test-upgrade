@@ -1,6 +1,6 @@
 import play.core.PlayVersion.pekkoVersion
 
-scalaVersion := "2.13.16"
+//scalaVersion := "2.13.16"
 
 lazy val root = (project in file("."))
   .enablePlugins(PlayScala)
